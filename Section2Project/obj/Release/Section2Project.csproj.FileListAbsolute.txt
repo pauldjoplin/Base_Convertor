@@ -1,0 +1,8 @@
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\bin\Release\Section2Project.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\bin\Release\Section2Project.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\bin\Release\Section2Project.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\obj\Release\Section2Project.Form1.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\obj\Release\Section2Project.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\obj\Release\Section2Project.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\obj\Release\Section2Project.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Section2Solution\Section2Project\obj\Release\Section2Project.pdb

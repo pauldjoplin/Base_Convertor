@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\bin\Debug\Section2Project.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\bin\Debug\Section2Project.exe
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\bin\Debug\Section2Project.pdb
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\obj\Debug\Section2Project.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\obj\Debug\Section2Project.Form1.resources
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\obj\Debug\Section2Project.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\obj\Debug\Section2Project.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\obj\Debug\Section2Project.exe
+c:\users\paul\documents\visual studio 2015\Projects\Section2Solution\Section2Project\obj\Debug\Section2Project.pdb
